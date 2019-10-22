@@ -1,2 +1,2 @@
 # 3_Broom
-Aprender a rodar y ubicar diferentes letras
+Aprender a rotar y ubicar diferentes letras
