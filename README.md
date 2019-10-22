@@ -1,2 +1,2 @@
-# 3_Broom
+# 3_Diseño
 Aprender a rotar y ubicar diferentes letras
